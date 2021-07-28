@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/twbs/bootstrap-sass"
+    "url": "git://github.com/uofa/bootstrap-sass"
   },
   "keywords": [
     "bootstrap",
@@ -26,11 +26,12 @@
     "Thomas McDonald",
     "Tristan Harward",
     "Peter Gumeson",
-    "Gleb Mazovetskiy"
+    "Gleb Mazovetskiy",
+    "Jonathan Goode"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap-sass/issues"
+    "url": "https://github.com/uofa/bootstrap-sass/issues"
   },
   "devDependencies": {
     "sass": "^1.33",
